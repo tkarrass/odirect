@@ -44,3 +44,5 @@ _testmain.go
 *.swp
 .idea
 cache
+odirect
+
